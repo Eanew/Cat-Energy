@@ -9,7 +9,7 @@
     "@babel/plugin-proposal-class-properties": "7.12.1",
     "@htmlacademy/editorconfig-cli": "1.x",
     "autoprefixer": "9.5.x",
-    "browser-sync": "2.26.x",
+    "browser-sync": "2.27.x",
     "del": "5.1.0",
     "gulp": "4.0.x",
     "gulp-babel": "8.0.0",
